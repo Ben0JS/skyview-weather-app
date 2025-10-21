@@ -33,7 +33,7 @@ function Search() {
 
   return (
     <div className="bgclr hs py-3 d-flex flex-column">
-      <h1 className="text-center my-5 text-primary fw-bold px-4">
+      <h1 className="text-center my-5 text-dark fw-bold px-4">
         Weather Forecast
       </h1>
 

@@ -2,8 +2,8 @@ export default function About() {
   return (
         <div className=" bg-light py-5 px-3">
           <h2 className="text-center text-primary fw-bold mb-3">About SkyView</h2>
-          <p className="text-center text-secondary lead mb-4">
-            SkyView is a modern weather forecast application built with <strong>React.js</strong> and powered by the
+          <p className="text-center text-dark lead mb-4">
+            Ben's Sky View is a modern weather forecast application built with <strong>React.js</strong> and powered by the
             <strong> OpenWeather API</strong>. It provides real-time updates and a visually engaging interface to keep
             users informed about weather conditions anytime, anywhere.
           </p>

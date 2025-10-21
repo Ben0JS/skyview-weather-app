@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="text-center mb-5">
       <div className=" p-5 bg-white">
-        <h2 className="mb-3 text-dark fw-bold">Welcome to SkyView</h2>
+        <h2 className="mb-3 text-dark fw-bold">Welcome to Ben's Sky View</h2>
         <p className="lead text-secondary">
           Your personal weather companion — providing real-time forecasts,
           temperature updates, and global weather insights with just one click.
@@ -41,7 +41,7 @@ export default function Home() {
         </div>
 
         <p className="text-muted mt-4 mb-0">
-          Simple • Fast • Reliable — That’s <strong>SkyView</strong>
+          Simple • Fast • Reliable — That’s <strong>Ben-Sky-View</strong>
         </p>
       </div>
     </div>
